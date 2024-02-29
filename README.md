@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 You've reached the GitHub profile of Darren!
 
 <!--
 **Darren221/Darren221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently looking for a full-time software developer role
+- 💻 Programming Language: C/C++, Python, Java, JavaScript, Go
+- 🌐 Web & Frameworks: RESTful API, React, Pytest, Express.js, Spring Boot, gRPC
+- ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, GCP, Airflow
+- 📊 Databases: MongoDB, MySQL
+- 🔧 Tools: Git, Postman, ANTLR, ROS
+- ✉️ [lizonglun120@gmail.com](mailto:lizonglun120@gmail.com)
